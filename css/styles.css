@@ -5,7 +5,7 @@ body {
 }
 
 #title {
-    background-color:#ef8172;
+    background-color:#ff4c68;
     color : #ffff;
 }
 
@@ -75,14 +75,14 @@ p{
     margin-bottom: 1rem;
 }
 .icon:hover{
-    color: red;
+    color: #ff4c68;
 }
 
 /* testimonial section  */
 #testimonials{
     padding: 7% 15%;
     text-align:center;
-    background-color: #ef8172;
+    background-color: #ff4c68;
     color:#fff;
 }
 .testimonial-image{
@@ -101,7 +101,7 @@ h2{
 }
 /* press section */
 #press{
-    background-color: #ef8172;
+    background-color: #ff4c68;
     text-align: center;
     padding-bottom: 3%;
 }
